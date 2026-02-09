@@ -92,11 +92,11 @@ html {
 }
 .card1 {
     width: 60%;
-    background: url(/img/info1.jpg);
+    background: url(../img/info1.jpg);
 }
 .card2 {
     width: 40%;
-    background: url(/img/info2.jpg);
+    background: url(../img/info2.jpg);
     background-size: cover;
 }
 
@@ -121,7 +121,5 @@ html {
     background: rgba(0,0,0,0.3);
     padding: 10px 14px;
 }
-/* .main-text h2 {
-    font-size: 32px;
 
-} */
+
